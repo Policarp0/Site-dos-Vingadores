@@ -1,0 +1,17 @@
+
+header{
+    background-color: rgb(34, 26, 151);
+}
+a{
+    text-decoration: none;
+    color: aliceblue;   
+}
+ul{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+    margin-right: 60px;
+    margin-left: 60px;
+}
