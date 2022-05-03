@@ -1,4 +1,14 @@
 
+
+/* Formatando margens */
+ header { text-align: justify; margin-right: 10cm; margin-left: 10cm; margin-top: 2cm;}
+ p { text-align: justify; margin-right: 10cm; margin-left: 10cm; margin-top: 2cm;} 
+ h1{ text-align: justify; margin-right: 10cm; margin-left: 10cm; margin-top: 2cm;} 
+ img{ margin-right: 10cm; margin-left: 10cm; margin-top: 2cm;} 
+ body{justify-content: center;}
+
+
+/*
 header{
     background-color: rgb(34, 26, 151);
 }
@@ -14,4 +24,6 @@ li{
     display: inline-block;
     margin-right: 60px;
     margin-left: 60px;
+   
 }
+*/
